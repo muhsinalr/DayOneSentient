@@ -5,4 +5,4 @@ Then upload into github.then access through github.
 then pop changes through git software.
 PUSH,POP,COMMIT.
 Complete the first task in trygithub website.
-Download GIT pc software.
+Download GIT PCsoftware.
