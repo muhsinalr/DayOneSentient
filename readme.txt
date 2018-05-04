@@ -1,4 +1,4 @@
-Create a repository in github account.
+Create a repository in github
 Create a sub repository.
 create a file in our system.
 Then upload into github,then access through github.
